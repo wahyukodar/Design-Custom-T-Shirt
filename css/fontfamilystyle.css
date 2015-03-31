@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'friday_night_lightsregular';
+    src: url('../fonts/fnl-webfont/fnl-webfont.eot');
+    src: url('../fonts/fnl-webfont/fnl-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/fnl-webfont/fnl-webfont.woff2') format('woff2'),
+         url('../fonts/fnl-webfont/fnl-webfont.woff') format('woff'),
+         url('../fonts/fnl-webfont/fnl-webfont.ttf') format('truetype'),
+         url('../fonts/fnl-webfont/fnl-webfont.svg#friday_night_lightsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
